@@ -1,0 +1,6 @@
+{
+  "name": "Lira Live - Syrian Market Exchange Rates & Financial Intelligence",
+  "description": "Track live Syrian Pound (SYP) exchange rates, gold prices, crypto markets, and financial movements with real-time verified data, currency calculator, and Lira AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
